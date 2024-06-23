@@ -43,12 +43,12 @@ Select the Startup Project:
 In the Solution Explorer window (usually on the right side), right-click on the project folder named WebAPIServer and select "Set as Startup Project".
 Run the Application (Without Debugging):
 
-# There are two ways to run the backend without debugging:
+### There are two ways to run the backend without debugging:
 - Using the green "Run" button: Locate the green "Run" button (usually a play symbol) on the top toolbar and click it. This will build and run the backend application.
 - Using the context menu: Right-click on the project name in the Solution Explorer and select "Run" without debugging.
 Run the Application (Debugging):
 
-# View the Backend Output:
+## View the Backend Output:
 
 After running the backend application, the Visual Studio console window will display application logs and any debugging information.
 You can also access the backend API in your web browser by navigating to the URL specified in the code configuration (https://localhost:7111).
