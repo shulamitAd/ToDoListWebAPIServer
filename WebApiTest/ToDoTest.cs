@@ -12,6 +12,7 @@ using WebAPIServer.CustomAttributes;
 using WebAPIServer.Models;
 using WebAPIServer.Repositories;
 using WebAPIServer.Services;
+using WebAPIServer.Validators;
 using Xunit;
 
 namespace WebApiTest
