@@ -22,10 +22,10 @@ Run npm install (or yarn install) to install the required dependencies for both 
 
 # Running the Application
 Start the backend: 
-# Running the Backend with Visual Studio
+## Running the Backend with Visual Studio
 Open the Solution in Visual Studio:
 Double-click the WebAPIServer.sln file to open it in Visual Studio.
-# Update localdb connection string in appsettings.json file:
+### Update localdb connection string in appsettings.json file:
 - From the View menu, open SQL Server Object Explorer
 - Right click on the localDb and select properties
 - In the properties window find the connectionString property
@@ -34,7 +34,7 @@ Double-click the WebAPIServer.sln file to open it in Visual Studio.
  
  
 
-# Create the database and tables:
+### Create the database and tables:
 On “package manager console” run the command “Update-Database”
 
 
